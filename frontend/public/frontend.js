@@ -5,6 +5,7 @@ const viewGradeResult2 = document.getElementById("viewGradeResult2");
 // function handleClickMe() {
 // 	alert("button click");
 // }
+
 async function handleSearch() {
 	let subject = document.getElementById("subject").value;
 	let year = document.getElementById("year").value;
